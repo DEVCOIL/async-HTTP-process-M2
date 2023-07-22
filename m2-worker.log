@@ -31,3 +31,5 @@
 {"level":"info","message":"Processed task, result: \"{\\\"result\\\":\\\"{\\\\\\\"int\\\\\\\":\\\\\\\"10\\\\\\\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ.\\\"}\"","service":"M2-worker","timestamp":"2023-07-22T15:23:09.561Z"}
 {"level":"info","message":"Received task: {\"int\":\"10\"}","service":"M2-worker","timestamp":"2023-07-22T15:23:10.397Z"}
 {"level":"info","message":"Processed task, result: \"{\\\"result\\\":\\\"{\\\\\\\"int\\\\\\\":\\\\\\\"10\\\\\\\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ.\\\"}\"","service":"M2-worker","timestamp":"2023-07-22T15:23:10.398Z"}
+{"level":"info","message":"Received task: {\"int\":\"10\"}","service":"M2-worker","timestamp":"2023-07-22T15:30:09.926Z"}
+{"level":"info","message":"Processed task, result: \"{\\\"result\\\":\\\"{\\\\\\\"int\\\\\\\":\\\\\\\"10\\\\\\\"} - 'было получено из очереди, обработано и ввозвращено в RabbitMQ.\\\"}\"","service":"M2-worker","timestamp":"2023-07-22T15:30:09.929Z"}
